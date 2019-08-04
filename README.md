@@ -6,6 +6,14 @@
 > This project creates the diagram and CloudFormation scripts to create
 a network architecture and services within it to host an Apache-hosted webapp.
 
+## CloudFormation Scripts
+
+> There are 2 cloud formation scripts.  The network script needs to be run before the app script.  Utility shell scripts are provided to invoke **aws cloudformation**
+
+    - *network/network_cfm.yml*
+    - *app/app_cfm.yml*
+
+
 ## Create the Network Architecture
 
 ```
