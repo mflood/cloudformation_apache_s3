@@ -8,7 +8,7 @@ a network architecture and services within it to host an Apache-hosted webapp.
 
 ## CloudFormation Scripts
 
-> There are 2 cloud formation scripts.
+> There are 2 cloud formation scripts:
 
 ```
 network/network_cfm.yml
