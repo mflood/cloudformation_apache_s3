@@ -10,4 +10,5 @@ aws cloudformation create-stack \
 --stack-name $STACK_NAME \
 --template-body file://$TEMPLATE_FILE \
 --parameters file://$PARAMS_FILE \
+--capabilities CAPABILITY_IAM \
 --region=us-west-2
