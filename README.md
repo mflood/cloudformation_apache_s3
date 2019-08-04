@@ -1,6 +1,10 @@
 # cloudformation_apache_s3
-Udacity project for Deploy Infrastructure as Code (IAC)
+> Matthew Flood
 
+> Udacity project for Deploy Infrastructure as Code (IAC)
+
+> This project creates the diagram and CloudFormation scripts to create
+a network architecture and services within it to host an Apache-hosted webapp.
 
 ## Create the Network Architecture
 
