@@ -2,5 +2,13 @@
     {
         "ParameterKey": "EnvironmentName",
         "ParameterValue": "UdacityFinalProject"
+    },
+    {
+        "ParameterKey": "WebAppImageId",
+        "ParameterValue": "ami-005bdb005fb00e791"
+    },
+    {
+        "ParameterKey": "WebAppInstanceType",
+        "ParameterValue": "t3.small"
     }
 ]
